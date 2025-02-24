@@ -1,8 +1,10 @@
 # okktoplol ⭐
 
-## about
-okktoplol, Brazilian, living in Uruguay, avid rust developer by hobby && open source lover by heart
+## me
+- I'm most familiar with rust and python though I have experience with C.
+- I have done linux system administration before.
+- Living in Montevideo, Uruguay
 
 ## get in touch
-Send me a discord dm, my user is okktoplol; or
-Email me at okk@cock.email
+- send me a discord dm, my user is okktoplol
+- I speak fluent english, native portuguese and intermediate spanish
