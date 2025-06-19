@@ -1,4 +1,4 @@
-# okktoplol ⭐
+# ♡(>ᴗ•)
 
 ## me
 - I like low level programming and linux systems
