@@ -7,4 +7,4 @@
 - I live in brazil
 
 ## get in touch
-- girlkisser.org/contact.html
+- https://girlkisser.org/contact.html
