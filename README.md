@@ -1,10 +1,10 @@
 # ♡(>ᴗ•)
 
 ## me
-- I like low level programming and linux systems
-- my name is lia
+- I like low level systems
+- people call me lia/okk and some other stuff
+- I speak english, portuguese and spanish
+- I live in brazil
 
 ## get in touch
-- send me a discord dm or something, my user is okktoplol
-- send me an email at <lia.is-a@girlkisser.org>
-- I speak fluent english, native portuguese and intermediate spanish
+- girlkisser.org/contact.html
